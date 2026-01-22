@@ -89,4 +89,6 @@ The solution includes:
 
 A full step-by-step walkthrough of this project, including screenshots, is available on Medium:
 
-**AWS Lambda: Automatically Stop EC2 Instances** https://medium.com/@labossiere01/aws-lambda-automatically-stop-ec2-instances-05d463ca6bc2
+**AWS Lambda: Automatically Stop EC2 Instances** 
+
+https://medium.com/@labossiere01/aws-lambda-automatically-stop-ec2-instances-05d463ca6bc2
